@@ -40,7 +40,7 @@ just make sure you activate/deactivate your objects on the correct lines.
 #### Object Diagrams:
 
 It is recommended that you use Class diagrams for Object diagrams as well,
-because Objets cannot be given aliases and : can't be used in names. 
+because Objects cannot be given aliases and : can't be used in names. 
 Keep in mind that double underscores are used to denote underlines.
 
 #### State Diagrams:
