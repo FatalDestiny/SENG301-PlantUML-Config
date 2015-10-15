@@ -43,8 +43,11 @@ because Objects cannot be given aliases and : can't be used in names.
 Keep in mind that double underscores are used to denote underlines.
 
 #### State Diagrams:
-
-State diagrams work properly, however you need to add line breaks in your
+To use State diagrams add:
+```
+hide empty description
+```
+to you file, however you need to add line breaks in your
 arrow descriptions using '\n' to ensure that the descriptions do not
 become too long.
 
