@@ -6,9 +6,8 @@ This config file is intended to simplify the look of Class/Sequence/State
 diagrams to meet the standard set for SENG301.
 It uses monochrome by default, but this can be overriden if needed.
 
-Due to missing formatting options, the user should use Activity syntax for State
-diagrams, and Class syntax for Object diagrams, in order to get the desired 
-look.
+Due to missing formatting options, the user should use Class syntax for
+Object diagrams, in order to get the desired look.
 
 ### Usage:
 
@@ -45,10 +44,9 @@ Keep in mind that double underscores are used to denote underlines.
 
 #### State Diagrams:
 
-For State diagrams, use the syntax for Activity diagrams, as they look the 
-same, with the exception of Activities look how the prof wants States.
-
-
+State diagrams work properly, however you need to add line breaks in your
+arrow descriptions using '\n' to ensure that the descriptions do not
+become too long.
 
 _There are a few other minor Syntactical quirks, but most can be easily 
 worked around._
