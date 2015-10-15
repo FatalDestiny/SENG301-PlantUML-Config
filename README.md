@@ -47,7 +47,7 @@ To use State diagrams add:
 ```
 hide empty description
 ```
-to you file, however you need to add line breaks in your
+to your file, however you need to add line breaks in your
 arrow descriptions using '\n' to ensure that the descriptions do not
 become too long.
 
